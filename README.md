@@ -1,5 +1,5 @@
 # Hi 👋
-I'm Marissa—a software engineer intern at Twitch working on Video Distribution to build and maintain the infrastructure that supports a diverse community of streamers and viewers. I'm also in the process of getting a CS honours degree from the University of Ottawa. I like tech because it's dope. I like to build tech because it has the power to create social good. 🌿
+I'm Marissa—a software engineer intern at Twitch working on Video Distribution to build and maintain the infrastructure that supports a diverse community of streamers and viewers. I'm also in the process of getting a CS degree from the University of Ottawa. I like tech because it's dope. I like to build tech because it has the power to create social good. 🌿
 
 ## A collection of my favourite things
 🛣Long drives at sunset<br>
