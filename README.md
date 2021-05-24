@@ -9,7 +9,7 @@ I'm Marissa—a software engineer intern at Twitch working on Video Distribution
 🎨  Looking at art so stunning you can't help but stare silently<br>
 
 ## If you want to chat but no pressure
-@ me on [twitter](https://twitter.com/os_maris) or send me an [email](mailto:hello@marissa.digital)
+send me an [email](mailto:hello@marissa.digital)
 
 <!--
 **marissap/marissap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
