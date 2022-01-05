@@ -1,14 +1,5 @@
 # Hi 👋
-I'm Marissa—a software engineer at Twitch working on Video Distribution to build and maintain the infrastructure that supports a diverse community of streamers and viewers. I also have a CS degree. I like tech. 🌿
-
-## A collection of my favourite things
-🛣  Long drives at sunset<br>
-🌌  Looking up at the night sky<br>
-🎶  Listening to live music with friends<br>
-🧠  Breaking down a problem into hand-written diagrams<br>
-
-## If you want to chat
-send me an [email](mailto:hello@marissa.digital)
+write code, build systems, have fun.
 
 <!--
 **marissap/marissap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
